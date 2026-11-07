@@ -1,2 +1,2 @@
 # RCC_Code_RCC
-Code repos for 'Senescence-like stemness niche triggers TREM2⁺ macrophage-mediated immune evasion through paracrine SLPI signalling in renal cell carcinoma'
+Code repos for 'An SLPI⁺ senescence-like tumor niche drives immune evasion by inducing TREM2⁺ macrophages'
